@@ -4,6 +4,7 @@
   "description": "readme.md content",
   "main": "https.js",
   "scripts": {
+    "start": "node https.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
